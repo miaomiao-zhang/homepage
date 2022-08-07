@@ -1,0 +1,540 @@
+I"ìg<!-- _pages/publications.md -->
+<div class="publications">
+  <h2 class="year">2022</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">TON-2022</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="zhang2022charmseeker" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">CharmSeeker: Automated Pipeline Configuration for Serverless Video Processing</div>
+          <!-- Author -->
+          <div class="author">
+          
+                  <em>Zhang, Miao</em>,&nbsp;Zhu, Yifei,&nbsp;
+                Liu, Jiangchuan
+
+          
+            
+            
+            and
+            <span class="more-authors" title="click to view 2 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '2 more authors' ? 'Wang, Feng,&nbsp;Wang, Fangxin' : '2 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                  }, 15);
+                ">2 more authors</span>
+          
+
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>IEEE/ACM Transactions on Networking</em> 2022
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+            <a href="/assets/pdf/charmseeker_22_ton.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          </div>
+
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">zhang2022charmseeker</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{CharmSeeker: Automated Pipeline Configuration for Serverless Video Processing}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Zhang, Miao and Zhu, Yifei and Liu, Jiangchuan and Wang, Feng and Wang, Fangxin}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2022}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{IEEE/ACM Transactions on Networking}</span><span class="p">,</span>
+  <span class="na">publisher</span> <span class="p">=</span> <span class="s">{IEEE}</span><span class="p">,</span>
+<span class="p">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">INFOCOM-22</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="zhang2022casva" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">CASVA: Configuration-Adaptive Streaming for Live Video Analytics</div>
+          <!-- Author -->
+          <div class="author">
+          
+                  <em>Zhang, Miao</em>,&nbsp;Wang, Fangxin,&nbsp; and 
+                Liu, Jiangchuan
+
+          
+
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>In Proceedings of the 41st IEEE Conference on Computer Communications</em> 2022
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+            <a href="/assets/pdf/infocom_22_casva.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <a href="/assets/pdf/infocom_22_casva_slides.pdf" class="btn btn-sm z-depth-0" role="button">Slides</a>
+          </div>
+
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">zhang2022casva</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{CASVA: Configuration-Adaptive Streaming for Live Video Analytics}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Zhang, Miao and Wang, Fangxin and Liu, Jiangchuan}</span><span class="p">,</span>
+  <span class="na">booktitle</span> <span class="p">=</span> <span class="s">{Proceedings of the 41st IEEE Conference on Computer Communications}</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">{2168--2177}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2022}</span><span class="p">,</span>
+  <span class="na">organization</span> <span class="p">=</span> <span class="s">{IEEE}</span><span class="p">,</span>
+<span class="p">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2021</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">IEEE-Network</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="zhang2021serverless" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Serverless Empowered Video Analytics for Ubiquitous Networked Cameras</div>
+          <!-- Author -->
+          <div class="author">
+          
+                  <em>Zhang, Miao</em>,&nbsp;Wang, Fangxin,&nbsp;
+                Zhu, Yifei
+
+          
+            
+            
+            and
+            <span class="more-authors" title="click to view 2 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '2 more authors' ? 'Liu, Jiangchuan,&nbsp;Li, Bo' : '2 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                  }, 15);
+                ">2 more authors</span>
+          
+
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>IEEE Network</em> 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+            <a href="/assets/pdf/ieee_network_serverless.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          </div>
+
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">zhang2021serverless</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Serverless Empowered Video Analytics for Ubiquitous Networked Cameras}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Zhang, Miao and Wang, Fangxin and Zhu, Yifei and Liu, Jiangchuan and Li, Bo}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{IEEE Network}</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">{35}</span><span class="p">,</span>
+  <span class="na">number</span> <span class="p">=</span> <span class="s">{6}</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">{186--193}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2021}</span><span class="p">,</span>
+  <span class="na">publisher</span> <span class="p">=</span> <span class="s">{IEEE}</span><span class="p">,</span>
+<span class="p">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">MMSys-21</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="zhang2021towards" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Towards Cloud-Edge Collaborative Online Video Analytics with Fine-Grained Serverless Pipelines</div>
+          <!-- Author -->
+          <div class="author">
+          
+                  <em>Zhang, Miao</em>,&nbsp;Wang, Fangxin,&nbsp;
+                Zhu, Yifei
+
+          
+            
+            
+            and
+            <span class="more-authors" title="click to view 2 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '2 more authors' ? 'Liu, Jiangchuan,&nbsp;Wang, Zhi' : '2 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                  }, 15);
+                ">2 more authors</span>
+          
+
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>In Proceedings of the 12th ACM Multimedia Systems Conference</em> 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+            <a href="/assets/pdf/mmsys_21_serverless.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <a href="/assets/pdf/mmsys_21_serverless_slides.pdf" class="btn btn-sm z-depth-0" role="button">Slides</a>
+          </div>
+
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">zhang2021towards</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Towards Cloud-Edge Collaborative Online Video Analytics with Fine-Grained Serverless Pipelines}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Zhang, Miao and Wang, Fangxin and Zhu, Yifei and Liu, Jiangchuan and Wang, Zhi}</span><span class="p">,</span>
+  <span class="na">booktitle</span> <span class="p">=</span> <span class="s">{Proceedings of the 12th ACM Multimedia Systems Conference}</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">{80--93}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2021}</span><span class="p">,</span>
+<span class="p">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2019</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">NOSSDAV-19</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="zhang2019video" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Video Processing with Serverless Computing: A Measurement Study</div>
+          <!-- Author -->
+          <div class="author">
+          
+                  <em>Zhang, Miao</em>,&nbsp;Zhu, Yifei,&nbsp;
+                Zhang, Cong
+
+          
+            
+            
+            and
+            <span class="more-authors" title="click to view 1 more author" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '1 more author' ? 'Liu, Jiangchuan' : '1 more author';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                  }, 15);
+                ">1 more author</span>
+          
+
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>In Proceedings of the 29th ACM workshop on network and operating systems support for digital audio and video</em> 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+            <a href="/assets/pdf/nossdav_19_serverless.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <a href="/assets/pdf/nossdav_19_serverless_slides.pdf" class="btn btn-sm z-depth-0" role="button">Slides</a>
+          </div>
+
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">zhang2019video</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Video Processing with Serverless Computing: A Measurement Study}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Zhang, Miao and Zhu, Yifei and Zhang, Cong and Liu, Jiangchuan}</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">{61--66}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2019}</span><span class="p">,</span>
+<span class="p">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">NOSSDAV-19</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="zhang2019rendering" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Rendering Multi-Party Mobile Augmented Reality from Edge</div>
+          <!-- Author -->
+          <div class="author">
+          Zhang, Lei,&nbsp;Sun, Andy,&nbsp;
+                Shea, Ryan
+
+          
+            
+            
+            and
+            <span class="more-authors" title="click to view 2 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '2 more authors' ? 'Liu, Jiangchuan,&nbsp;Zhang, Miao' : '2 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                  }, 15);
+                ">2 more authors</span>
+          
+
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>In Proceedings of the 29th ACM Workshop on Network and Operating Systems Support for Digital Audio and Video</em> 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+          </div>
+
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">zhang2019rendering</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Rendering Multi-Party Mobile Augmented Reality from Edge}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Zhang, Lei and Sun, Andy and Shea, Ryan and Liu, Jiangchuan and Zhang, Miao}</span><span class="p">,</span>
+  <span class="na">booktitle</span> <span class="p">=</span> <span class="s">{Proceedings of the 29th ACM Workshop on Network and Operating Systems Support for Digital Audio and Video}</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">{67--72}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2019}</span>
+<span class="p">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2018</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">ICC-18</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="zhang2018delay" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Delay-Aware Upload Balancing Cross APs Based on User Relays</div>
+          <!-- Author -->
+          <div class="author">
+          
+                  <em>Zhang, Miao</em>,&nbsp;Huang, Shan,&nbsp;
+                Wang, Zhi
+
+          
+            
+            
+            and
+            <span class="more-authors" title="click to view 1 more author" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '1 more author' ? 'Jiang, Yong' : '1 more author';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                  }, 15);
+                ">1 more author</span>
+          
+
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>In Proceedings of the 2018 IEEE International Conference on Communications</em> 2018
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+          </div>
+
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">zhang2018delay</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Delay-Aware Upload Balancing Cross APs Based on User Relays}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Zhang, Miao and Huang, Shan and Wang, Zhi and Jiang, Yong}</span><span class="p">,</span>
+  <span class="na">booktitle</span> <span class="p">=</span> <span class="s">{Proceedings of the 2018 IEEE International Conference on Communications}</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">{1--6}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2018}</span><span class="p">,</span>
+  <span class="na">organization</span> <span class="p">=</span> <span class="s">{IEEE}</span>
+<span class="p">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2017</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">JASC-17</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="ma2017understanding" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Understanding Performance of Edge Content Caching for Mobile Video Streaming</div>
+          <!-- Author -->
+          <div class="author">
+          Ma, Ge,&nbsp;Wang, Zhi,&nbsp;
+                <em>Zhang, Miao</em>
+                
+
+          
+            
+            
+            and
+            <span class="more-authors" title="click to view 3 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '3 more authors' ? 'Ye, Jiahui,&nbsp;Chen, Minghua,&nbsp;Zhu, Wenwu' : '3 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                  }, 15);
+                ">3 more authors</span>
+          
+
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>IEEE Journal on Selected Areas in Communications</em> 2017
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+          </div>
+
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">ma2017understanding</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Understanding Performance of Edge Content Caching for Mobile Video Streaming}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Ma, Ge and Wang, Zhi and Zhang, Miao and Ye, Jiahui and Chen, Minghua and Zhu, Wenwu}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{IEEE Journal on Selected Areas in Communications}</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">{35}</span><span class="p">,</span>
+  <span class="na">number</span> <span class="p">=</span> <span class="s">{5}</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">{1076--1089}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2017}</span><span class="p">,</span>
+  <span class="na">publisher</span> <span class="p">=</span> <span class="s">{IEEE}</span>
+<span class="p">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2016</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">TMC-16</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="wang2016propagation" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Propagation- and Mobility-Aware D2D Social Content Replication</div>
+          <!-- Author -->
+          <div class="author">
+          Wang, Zhi,&nbsp;Sun, Lifeng,&nbsp;
+                <em>Zhang, Miao</em>
+                
+
+          
+            
+            
+            and
+            <span class="more-authors" title="click to view 3 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '3 more authors' ? 'Pang, Haitian,&nbsp;Tian, Erfang,&nbsp;Zhu, Wenwu' : '3 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                  }, 15);
+                ">3 more authors</span>
+          
+
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>IEEE Transactions on Mobile Computing</em> 2016
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+          </div>
+
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">wang2016propagation</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Propagation- and Mobility-Aware D2D Social Content Replication}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Wang, Zhi and Sun, Lifeng and Zhang, Miao and Pang, Haitian and Tian, Erfang and Zhu, Wenwu}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{IEEE Transactions on Mobile Computing}</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">{16}</span><span class="p">,</span>
+  <span class="na">number</span> <span class="p">=</span> <span class="s">{4}</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">{1107--1120}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2016}</span><span class="p">,</span>
+  <span class="na">publisher</span> <span class="p">=</span> <span class="s">{IEEE}</span>
+<span class="p">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li></ol>
+
+
+</div>
+:ET
