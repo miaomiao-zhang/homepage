@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>miao_zhang-{at}-sfu-{dot}-ca</p>
+    <p>mza94-{at}-sfu-{dot}-ca</p>
     <!--
     <p>TASC1 9002</p>
     -->

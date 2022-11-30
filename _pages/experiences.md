@@ -10,9 +10,9 @@ nav_order: 5
 
 
 #### Teaching Experiences
-
-* Graduate Teaching Assistant for `Computer Simulation and Modelling`, Spring 2021.
-* Graduate Teaching Assistant for `Comparative Programming Languages`, Fall 2018.
+* Teaching Assistant for `Multimedia Systems`, Fall 2022.
+* Teaching Assistant for `Computer Simulation and Modelling`, Spring 2021.
+* Teaching Assistant for `Comparative Programming Languages`, Fall 2018.
 
 <hr>
 
