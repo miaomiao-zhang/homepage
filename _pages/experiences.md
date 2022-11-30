@@ -7,6 +7,12 @@ nav: true
 nav_order: 5
 ---
 
+<hr>
+#### Education
+* Sep 2018 - Present, Ph.D. in pursuit, Computing Science, Simon Fraser University (SFU), Canada
+* Sep 2015 - Jul 2018, M.S., Computer Science and technology, Tsinghua University (THU), China
+* Sep 2011 - Jul 2015, B.Eng., Computer Science and technology, Sichuan University (SCU), China
+<hr>
 
 
 #### Teaching Experiences
